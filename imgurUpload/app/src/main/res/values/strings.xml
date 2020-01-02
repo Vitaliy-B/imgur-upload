@@ -1,0 +1,18 @@
+<resources>
+  <string name="app_name">Imgur Upload</string>
+  <string name="title_uploaded_images">Uploaded Images</string>
+
+  <string name="action_list_uploads">Uploads List</string>
+  <string name="choose">Choose Image</string>
+  <string name="upload">Upload</string>
+  <string name="title">Title</string>
+  <string name="description">Description</string>
+  <string name="notification_fail">Image failed to upload…</string>
+  <string name="notifaction_success">Successfully uploaded</string>
+  <string name="notification_progress">Uploading image…</string>
+  <string name="notification_ch_def_name">Default</string>
+  <string name="notification_ch_def_desc">Default Notification Channel</string>
+  <string name="msg_no_records">No records</string>
+  <string name="err_no_inet">No internet connection</string>
+  <string name="err_no_serv_conn">Service connection lost</string>
+</resources>
